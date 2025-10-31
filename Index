@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Política de Privacidade — Muvie</title>
+  <meta name="description" content="Política de Privacidade do aplicativo Muvie — Seu guia de movimento. Saiba como coletamos, usamos e protegemos suas informações.">
+  <style>
+    :root{--bg:#f7f8fb;--card:#ffffff;--accent:#FAA613;--muted:#6b7280;--maxw:900px}
+    *{box-sizing:border-box}
+    body{font-family:Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;line-height:1.5;margin:0;background:var(--bg);color:#111}
+    .container{max-width:var(--maxw);margin:40px auto;padding:24px}
+    header{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+    .logo{width:56px;height:56px;border-radius:12px;background:linear-gradient(135deg,var(--accent),#ff8a3d);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700}
+    h1{font-size:1.6rem;margin:0}
+    p.lead{color:var(--muted);margin-top:6px}
+    nav.toc{background:var(--card);padding:14px;border-radius:12px;box-shadow:0 6px 18px rgba(12,18,24,0.06);margin-bottom:18px}
+    nav.toc ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px}
+    nav.toc a{color:#0b5cff;text-decoration:none;padding:6px 10px;border-radius:8px;font-size:0.95rem}
+    article.card{background:var(--card);padding:20px;border-radius:12px;box-shadow:0 6px 18px rgba(12,18,24,0.06)}
+    h2{font-size:1.1rem;margin-top:18px}
+    .meta{font-size:0.9rem;color:var(--muted)}
+    .section{margin-top:14px}
+    footer{margin-top:22px;color:var(--muted);font-size:0.9rem}
+    a.mail{color:#0b5cff}
+    @media (max-width:640px){.container{margin:18px;padding:16px}.logo{width:48px;height:48px}}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <div class="logo">Mv</div>
+      <div>
+        <h1>Política de Privacidade — Muvie</h1>
+        <p class="lead">Esta política se aplica ao aplicativo <strong>Muvie - Seu guia de movimento</strong>. Leia com atenção para entender como tratamos suas informações.</p>
+      </div>
+    </header>
+
+    <nav class="toc" aria-label="Índice da Política de Privacidade">
+      <ul>
+        <li><a href="#escopo">Escopo</a></li>
+        <li><a href="#coleta">Coleta e Uso de Informações</a></li>
+        <li><a href="#terceiros">Acesso de Terceiros</a></li>
+        <li><a href="#desativacao">Direitos de Desativação</a></li>
+        <li><a href="#retencao">Política de Retenção</a></li>
+        <li><a href="#criancas">Crianças</a></li>
+        <li><a href="#seguranca">Segurança</a></li>
+        <li><a href="#mudancas">Mudanças</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+
+    <article class="card" role="article">
+      <section id="escopo" class="section">
+        <p class="meta">Entrada em vigor: <strong>25 de outubro de 2025</strong></p>
+        <h2>Escopo</h2>
+        <p>Esta política de privacidade se aplica ao aplicativo <strong>Muvie - Seu guia de movimento</strong> (doravante referido como "Aplicativo") para dispositivos móveis, desenvolvido pela Muvie (doravante referido como "Provedor de Serviços"). O Aplicativo é fornecido gratuitamente e está disponível para uso "COMO ESTÁ".</p>
+      </section>
+
+      <section id="coleta" class="section">
+        <h2>Coleta e Uso de Informações</h2>
+        <p>O Aplicativo pode coletar informações quando você o baixa e utiliza. As informações coletadas podem incluir:</p>
+        <ul>
+          <li>Endereço de Protocolo de Internet do seu dispositivo (por exemplo, endereço IP);</li>
+          <li>Páginas do Aplicativo visitadas, data e hora da visita e tempo gasto;</li>
+          <li>Tempo total gasto no Aplicativo;</li>
+          <li>Sistema operacional do dispositivo móvel.</li>
+        </ul>
+        <p>O Aplicativo <strong>não</strong> coleta informações de localização precisa do seu dispositivo móvel.</p>
+        <p>O Provedor de Serviços poderá usar as informações fornecidas para entrar em contato ocasionalmente para enviar informações importantes, avisos e promoções de marketing.</p>
+        <p>Para uma experiência aprimorada, o Provedor de Serviços poderá solicitar que você forneça informações de identificação pessoal. Caso solicite, as informações serão retidas e usadas conforme descrito nesta política.</p>
+        <p>Para contato direto com o Provedor de Serviços, utilize: <a class="mail" href="mailto:contatomuvie.app@gmail.com">contatomuvie.app@gmail.com</a>.</p>
+      </section>
+
+      <section id="terceiros" class="section">
+        <h2>Acesso de Terceiros</h2>
+        <p>Apenas dados agregados e anônimos poderão ser transmitidos a serviços externos para ajudar a melhorar o Aplicativo e o serviço prestado. O Provedor de Serviços poderá compartilhar suas informações com terceiros conforme descrito nesta política, incluindo:</p>
+        <ul>
+          <li>Quando exigido por lei (por exemplo, cumprimento de intimação ou processo legal);</li>
+          <li>Se necessário para proteger direitos, segurança ou investigar fraudes;</li>
+          <li>Com provedores de serviços confiáveis que atuam em nome do Provedor e que concordaram em seguir as regras desta política.</li>
+        </ul>
+      </section>
+
+      <section id="desativacao" class="section">
+        <h2>Direitos de Desativação</h2>
+        <p>Você pode interromper a coleta de informações pelo Aplicativo desinstalando-o do seu dispositivo. Use o processo de desinstalação padrão do seu sistema operacional ou da loja de aplicativos onde o Aplicativo foi obtido.</p>
+      </section>
+
+      <section id="retencao" class="section">
+        <h2>Política de Retenção de Dados</h2>
+        <p>O Provedor de Serviços reterá os Dados Fornecidos pelo Usuário pelo período em que você utilizar o Aplicativo e por um tempo razoável após isso. Se desejar que seus dados sejam excluídos, entre em contato pelo e-mail: <a class="mail" href="mailto:contatomuvie.app@gmail.com">contatomuvie.app@gmail.com</a>. O Provedor responderá em prazo razoável e tomará as medidas cabíveis.</p>
+      </section>
+
+      <section id="criancas" class="section">
+        <h2>Crianças</h2>
+        <p>O Aplicativo não se destina a crianças menores de 13 anos. O Provedor de Serviços não solicita intencionalmente dados de crianças menores de 13 anos. Caso seja identificado que uma criança com menos de 13 anos forneceu informações pessoais, tais dados serão excluídos imediatamente dos servidores. Pais ou responsáveis que identificarem essa situação devem entrar em contato pelo e-mail acima.</p>
+      </section>
+
+      <section id="seguranca" class="section">
+        <h2>Segurança</h2>
+        <p>O Provedor de Serviços adota salvaguardas físicas, eletrônicas e processuais para proteger a confidencialidade das informações sob sua responsabilidade. Apesar disso, nenhum método de transmissão ou armazenamento eletrônico é 100% seguro; portanto, não podemos garantir segurança absoluta.</p>
+      </section>
+
+      <section id="mudancas" class="section">
+        <h2>Mudanças</h2>
+        <p>Esta Política de Privacidade pode ser atualizada periodicamente. O Provedor de Serviços notificará sobre alterações atualizando esta página. É recomendado que você revise esta política com regularidade. O uso contínuo do Aplicativo após alterações constitui aceitação das mesmas.</p>
+      </section>
+
+      <section id="consentimento" class="section">
+        <h2>Seu Consentimento</h2>
+        <p>Ao utilizar o Aplicativo, você concorda com o processamento de suas informações conforme descrito nesta Política de Privacidade, incluindo futuras alterações.</p>
+      </section>
+
+      <section id="contato" class="section">
+        <h2>Contato</h2>
+        <p>Se tiver dúvidas sobre esta política ou sobre as práticas de privacidade do Aplicativo, entre em contato com o Provedor de Serviços pelo e-mail: <a class="mail" href="mailto:contatomuvie.app@gmail.com">contatomuvie.app@gmail.com</a>.</p>
+      </section>
+
+      <footer>
+        <p>© Muvie — Política de Privacidade (versão em vigor a partir de 25/10/2025)</p>
+      </footer>
+    </article>
+  </main>
+</body>
+</html>
